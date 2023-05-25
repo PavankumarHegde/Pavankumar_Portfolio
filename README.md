@@ -1,6 +1,9 @@
 # Pavankumar_Portfolio
 Internship Task
 
+Command To Run Project:
+
+npm start
 
 
 # Light Theme
