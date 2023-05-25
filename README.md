@@ -7,7 +7,8 @@ Internship Task
 
 This application is created using react JS
 
-![Uploading image.png…]()
+![image](https://github.com/PavankumarHegde/Pavankumar_Portfolio/assets/51742316/65c24449-64b0-4e7b-b913-22746a407aab)
+
 
 
 
