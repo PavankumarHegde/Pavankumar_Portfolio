@@ -1,0 +1,23 @@
+/* styles.css */
+:root {
+    /* Light theme variables */
+    --background-color: #fff;
+    --text-color: #333;
+  
+    /* Dark theme variables */
+    --background-color-dark: #333;
+    --text-color-dark: #fff;
+  }
+  
+  /* Light theme */
+  body[data-theme='light'] {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+  
+  /* Dark theme */
+  body[data-theme='dark'] {
+    background-color: var(--background-color-dark);
+    color: var(--text-color-dark);
+  }
+  

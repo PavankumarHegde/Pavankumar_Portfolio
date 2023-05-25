@@ -1,0 +1,19 @@
+/* App.css */
+.app {
+  text-align: center;
+  padding: 50px;
+}
+
+.gradient-button {
+  background: linear-gradient(to right, #ff416c, #ff4b2b);
+  color: #F5F5F5;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.theme-switcher {
+  margin-top: 20px;
+}
